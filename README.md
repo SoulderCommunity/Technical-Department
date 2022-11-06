@@ -2,4 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Здесь вы сможете оставить заявки на текущие проблеммы на проектах,</h3>
 <h3 align="center">а так же получать новости об их исправлениях.</h3>
+
 <h3 align="center"><a href="https://discord.gg/9XSmBMbnRj" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="32"/></h1></a></h3>
+
+<h3 align="center"><a href="https://twitter.com/soulder_space" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="32"/></h1></a></h3>
